@@ -39,7 +39,6 @@ Nosso aplicativo utiliza serviços de terceiros que podem coletar informações 
 
 * **Google Play Services:** [https://policies.google.com/privacy](https://policies.google.com/privacy)
 * **Google AdMob:** [https://support.google.com/admob/answer/6128543](https://support.google.com/admob/answer/6128543)
-* **YouTube:** O aplicativo interage com os servidores do YouTube para obter acesso aos streams de áudio. O uso do serviço está sujeito aos Termos de Serviço do YouTube.
 
 ### Segurança
 
